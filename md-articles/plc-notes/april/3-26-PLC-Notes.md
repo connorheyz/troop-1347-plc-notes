@@ -8,6 +8,7 @@
 <a style="float:left;color:#f2f2f2;text-align:center;text-decoration:none;font-size:17px;padding: 14px 16px;" href="https://connorheyz.github.io/troop-1347-plc-notes/articles/plc-notes/index.html#plc-notes">PLC Notes</a>
 <a style="float:left;color:#f2f2f2;text-align:center;text-decoration:none;font-size:17px;padding: 14px 16px;" href="https://burke1347.mytroop.us/">Troop Website</a>
 </div>
+
 # 3/26 PLC
 ## Committe Stuff
  - The pack is planning on having a blue and gold banquet. 
@@ -101,5 +102,5 @@
 	 - Food: Young Goats
 	 - Drinks: Purple Pandas
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3Mjk3Nzk3OF19
+eyJoaXN0b3J5IjpbNDg5MDQ5OTYwLDE0NzI5Nzc5NzhdfQ==
 -->
