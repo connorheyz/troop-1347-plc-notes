@@ -73,8 +73,10 @@
   ## May 28th PLC
    - Send out email before the PLC that reminds people to bring reports or email them to the SPL
    - Leadership training planning
+ ## Early July
+  - Try to do high adventure
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjEyNzM4NDUyLDE2ODUyMjkyNDQsLTEzND
-U3MTIwOF19
+eyJoaXN0b3J5IjpbLTExNDczNDM1MTMsMTY4NTIyOTI0NCwtMT
+M0NTcxMjA4XX0=
 -->
