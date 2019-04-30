@@ -18,6 +18,9 @@
  ## Patrol Leader Report (Purple Pandas)
   - Nothing to report
  
+ ## Announcements
+  - Camp Snyder swimming on the 19th
+  - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1Mjk3Nzk3MywtMTM0NTcxMjA4XX0=
+eyJoaXN0b3J5IjpbMTIzODk3MzY3OCwtMTM0NTcxMjA4XX0=
 -->
