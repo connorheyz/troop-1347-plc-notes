@@ -61,9 +61,12 @@
    - Load it before
    - The day will be completely planned by Clay
    - Separate Hike
+   - Possibly one patrol
+   - Scott is possibly the grubmaster and Connor is the assistant grubmaster
    - Details @ Super PLC
   ## May 21st
-   - 
+   - Annual plannin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4NTIyOTI0NCwtMTM0NTcxMjA4XX0=
+eyJoaXN0b3J5IjpbLTQwNzE2OTk3NCwxNjg1MjI5MjQ0LC0xMz
+Q1NzEyMDhdfQ==
 -->
