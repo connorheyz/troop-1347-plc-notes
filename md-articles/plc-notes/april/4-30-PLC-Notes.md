@@ -66,14 +66,15 @@
    - Details @ Super PLC
   ## May 21st
    - Annual planning part 1
+	   - High adventure program planning
    - Everyone should be there
    - ~1 hour long
    - Freddie is in charge of the fun game
   ## May 28th PLC
    - Send out email before the PLC that reminds people to bring reports or email them to the SPL
-   - Leadership training 
+   - Leadership training planning
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMjE1OTk0NywxNjg1MjI5MjQ0LC0xMz
-Q1NzEyMDhdfQ==
+eyJoaXN0b3J5IjpbNjEyNzM4NDUyLDE2ODUyMjkyNDQsLTEzND
+U3MTIwOF19
 -->
