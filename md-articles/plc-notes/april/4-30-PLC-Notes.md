@@ -66,10 +66,13 @@
    - Details @ Super PLC
   ## May 21st
    - Annual planning part 1
+   - Everyone should be there
    - ~1 hour long
    - Freddie is in charge of the fun game
+  ## May 28th PLC
    - 
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzY1Nzc3NTAsMTY4NTIyOTI0NCwtMT
-M0NTcxMjA4XX0=
+eyJoaXN0b3J5IjpbNjYwODY4MjE4LDE2ODUyMjkyNDQsLTEzND
+U3MTIwOF19
 -->
