@@ -20,7 +20,7 @@
  
  ## Announcements
   - Camp Snyder swimming on the 19th
-  - 
+  - Vlad's Den cooking with the troop on the 14th
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzODk3MzY3OCwtMTM0NTcxMjA4XX0=
+eyJoaXN0b3J5IjpbLTEwNjk5NDE2MzAsLTEzNDU3MTIwOF19
 -->
