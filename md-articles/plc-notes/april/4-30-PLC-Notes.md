@@ -70,9 +70,10 @@
    - ~1 hour long
    - Freddie is in charge of the fun game
   ## May 28th PLC
-   - 
+   - Send out email before the PLC that reminds people to bring reports or email them to the SPL
+   - Leadership training 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYwODY4MjE4LDE2ODUyMjkyNDQsLTEzND
-U3MTIwOF19
+eyJoaXN0b3J5IjpbLTIyMjE1OTk0NywxNjg1MjI5MjQ0LC0xMz
+Q1NzEyMDhdfQ==
 -->
