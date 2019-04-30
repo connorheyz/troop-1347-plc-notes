@@ -8,7 +8,12 @@
  - Mr. Deweese
  - Sebastian Fallon
  - Mr. Fallon
- 
+
+ ## Grubmaster 
+ ### Needs
+  - Stove regulator
+  - Tongs
+  - Plan the date for labeling and tagging
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDU3MTIwOF19
+eyJoaXN0b3J5IjpbMTgyNTc0OTM5MSwtMTM0NTcxMjA4XX0=
 -->
