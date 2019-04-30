@@ -65,8 +65,11 @@
    - Scott is possibly the grubmaster and Connor is the assistant grubmaster
    - Details @ Super PLC
   ## May 21st
-   - Annual plannin
+   - Annual planning part 1
+   - ~1 hour long
+   - Freddie is in charge of the fun game
+   - 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNzE2OTk3NCwxNjg1MjI5MjQ0LC0xMz
-Q1NzEyMDhdfQ==
+eyJoaXN0b3J5IjpbLTE1MzY1Nzc3NTAsMTY4NTIyOTI0NCwtMT
+M0NTcxMjA4XX0=
 -->
