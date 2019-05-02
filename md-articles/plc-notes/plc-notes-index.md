@@ -19,8 +19,9 @@ This page contains all of the Boys' PLC Notes since April 2019.
  - [Super PLC Notes](april/3-26-Super-PLC-Notes.html)
  
 ### May 2019
-#### 4/29/2019
- - [PLC Notes]
+#### 4/30/2019
+ - [PLC Notes](may/4-30-PLC-Notes.html)
+ - [Super PLC Notes](may/4-30-Super-PLC-Notes.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2OTQwMjQ5Nyw0NjYzMTk2MTldfQ==
+eyJoaXN0b3J5IjpbMjg1NDQ2MDc1LDQ2NjMxOTYxOV19
 -->
